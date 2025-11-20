@@ -74,7 +74,7 @@
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">**Let's Connect**
 
 <p align="center">
-  <a href="www.linkedin.com/in/boris-carvajal" target="_blank">
+  <a href="https://www.linkedin.com/in/boris-carvajal/" target="_blank">
     <img src="https://img.icons8.com/doodle/48/linkedin--v2.png"/>
   </a>
   <a href="https://github.com/BorisCarvajal18" target="_blank">
